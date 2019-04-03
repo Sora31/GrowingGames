@@ -1,0 +1,37 @@
+{
+  "name": "growinggames",
+  "version": "1.0.0",
+  "description": "Hi Back",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0",
+    "cookie-parser": "^1.4.4",
+    "dotenv": "^7.0.0",
+    "connect-flash": "^0.1.1",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.1",
+    "ejs": "^2.6.1",
+    "express-session": "^1.15.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "yarn": "^1.13.0"
+  },
+  "scripts": {
+    "test": "hello games!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sora31/GrowingGames.git"
+  },
+  "keywords": [
+    "asdf1234"
+  ],
+  "author": "sora31",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sora31/GrowingGames/issues"
+  },
+  "homepage": "https://github.com/Sora31/GrowingGames#readme"
+}
